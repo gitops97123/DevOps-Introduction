@@ -73,4 +73,4 @@ The SDLC is used in system or software engineering to describe the phases throug
 
 # Introduction to Agile Methodology 
 
-![new repository](https://github.com/gitops97123/DevOps-Introduction/blob/main/icons/02.png?raw=true)
+![new repository](https://github.com/gitops97123/DevOps-Introduction/blob/main/icons/02.jpg?raw=true)

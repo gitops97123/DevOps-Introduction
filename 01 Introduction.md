@@ -15,4 +15,9 @@ Introduction in 2009 by patrick Debios, the DevOps is a practical field that cov
  * Explain agile methodology 
  * Describe DevOps 
 
- 
+
+# SDLC 
+
+The SDLC is used in system or software engineering to describe the phases through which the software should go before it is completely developed. the phases of the SDLC focus on plannning, designing, building, testing, and finally, delivering the complete software product. 
+
+![new repository](https://github.com/gitops97123/gitOps/blob/main/icons/01.png?raw=true)

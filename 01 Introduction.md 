@@ -1,0 +1,173 @@
+# DevOps
+
+
+Dev                                     Ops
+Team A                                  Team B 
+|__ code ____________________________    deploy 
+    
+build --- test  --- integrate --- platform ----    deploy -- release ------ monitor 
+|           |       |               |               |          |_ zira          |_ Nagios | elk 
+Git     selenium    Jenkin        docker,kubernetes ansible                     graylog | datadog | 
+        function                                     docker                     netdata 
+        unit 
+        
+SDLC process involves collection of software requirements from the customer, 
+development of the software by the development team, and testing of functionalities of the software by testers, is well known. 
+
+Introduced in 2009 by patrick debois, the te DevOps is a practice field that covers several disciplines while understanding the functional as well as the technical aspect of the software 
+development in an organisation. 
+   DevOps is derived by joining two teams "development" and "operations". 
+
+
+SDLC : 
+
+   Design  
+       coding 
+           testing 
+                 mainternance & support 
+                      analysis 
+
+
+Software testing  
+
+1. manual testing 
+2. automation testing 
+3. static testing 
+4. dynamic testing 
+
+test case design -> test environment setup -> test case execution -> error reporting -> Test closure 
+
+5. black-box testing 
+6. white-box testing  
+7. functional testing 
+8. non-functional testing 
+9.  unit testing 
+10. integration testing 
+11. system testing 
+
+
+Agile methodology 
+
+Agile testing is a rapid process of software testing that aims towards
+increasing the flexibility and effectiveness of the workflow. 
+
+
+
+                continuous 
+                integration 
+                    |
+                    |
+ continuous  ---- DevOps   ---   Continuous 
+   monitoring       |             delivery      
+                    |
+                continuous 
+                    testing 
+
+DevOps testing Tools:- 
+
+Appium 
+Bamboo 
+cruiseControl 
+Cucumber 
+GitHub 
+Jenkins 
+Junit etc.
+
+Exploring Linux for DevOps 
+
+> Describe Linux and its layers 
+> Basic commands & Configuration 
+> Installation & configuration 
+
+
+Why are Open-Source tools essential for the devops cycle?
+
+Open_source platform allow everyone on the DevOps team to view the state of the application 
+being developed, which is very important in DevOps. 
+
+Technologies used with DevOps 
+
+OpenStack 
+    Aws
+        Docker  
+            Jenkins 
+                Git 
+                    Ansible/Puppet/Chef
+                        Python
+                            Linux 
+kernel 
+shell 
+    |_ sh  ksh  bash    c   tcsh 
+
+
+
+=> cloud computing and DevOps 
+
+
+
+Mainframe computing 
+|
+PC computing 
+|
+Network Computing 
+|
+Internet Computing 
+|
+Grid Computing 
+|
+Cloud Compting 
+
+
+Characteristics of cloud computing Model 
+
+> On-demand Provisioning   -> CSPs 
+> Resource Pooling         -> 
+> Elasticity 
+> Metering 
+> Network Access
+
+
+Benefits of Cloud Computing 
+
+> Financial Effiency 
+> Demand-Driven Structure 
+> Reliability 
+> Dedicated team for security management 
+> Protection from internal data theft 
+> Pervention of data loss 
+
+Layers in CLoud Computing 
+
+> IaaS 
+> SaaS
+> PaaS
+> DBaaS
+> BPaaS
+> IaaC
+
+Types of Cloud 
+
+Public Cloud 
+Private Cloud 
+Hybrid CLoud 
+Multi-Cloud edge
+    |
+    |_ aws | azure | openstack | gcp | alibaba | edge 
+
+Managing Source Code. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -74,3 +74,10 @@ The SDLC is used in system or software engineering to describe the phases throug
 # Introduction to Agile Methodology 
 
 ![new repository](https://github.com/gitops97123/DevOps-Introduction/blob/main/icons/02.jpg?raw=true)
+
+Agile testing is a rapid process of software testing that aims towards increasing the flexibility and effectiveness of the workflow. In this model, the software undre development is divided into separate working/functional modules. Each module is developed/tested as an iteration. The defects that are discovered in an iteration are fixed in the next/subsequent iteration. 
+
+## Agile Software Development Model 
+
+The agile software development model uses the incremental method for developing target applications or software. the model uses iterations with model of developement is usually 1 to 4 weeks long. 
+
